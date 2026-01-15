@@ -1,27 +1,19 @@
-import { useState } from "react"
-import "./App.css"
+import { useState } from "react";
+import "./App.css";
 
 function App() {
-  const [darkMode, setDarkMode] = useState(false)
-
-  const toggleTheme = () => {
-    setDarkMode(!darkMode)
-  }
+  const [darkMode, setDarkMode] = useState(false);
 
   return (
-    <div className={darkMode ? "app dark" : "app light"}>
-      <h2>Theme Toggle SPA</h2>
+    <div className={darkMode ? "container dark" : "container light"}>
+      <h1>Theme Toggle SPA</h1>
+      <p>{darkMode ? "Dark Mode Enabled" : "Light Mode Enabled"}</p>
 
-      <button onClick={toggleTheme}>
-        Switch to {darkMode ? "Light" : "Dark"} Mode
+      <button onClick={() => setDarkMode(!darkMode)}>
+        Toggle Theme
       </button>
-
-      <p>
-        This is a simple SPA that switches between light and dark themes
-        using React state.
-      </p>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
