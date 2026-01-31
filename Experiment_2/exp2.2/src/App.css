@@ -1,0 +1,41 @@
+/* Background */
+.page-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #eef2ff, #f8fafc);
+}
+
+/* Title */
+.title {
+  font-weight: 700;
+  color: #1e293b;
+}
+
+/* Card Design */
+.custom-card {
+  border: none;
+  border-radius: 18px;
+  transition: all 0.3s ease;
+  background: white;
+}
+
+/* Hover Effect */
+.custom-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+/* Icon */
+.icon {
+  font-size: 3rem;
+}
+
+/* Text */
+.card-title {
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.card-text {
+  color: #475569;
+  font-size: 0.95rem;
+}
