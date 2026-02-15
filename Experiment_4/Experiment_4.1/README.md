@@ -9,15 +9,6 @@ To implement global state management in a Single Page Application (SPA) using th
 
 ---
 
-## 🛠️ Software Requirements
-
-- Node.js
-- React (Vite)
-- VS Code
-- Web Browser
-
----
-
 ## 📚 Theory
 
 In React applications, passing data through multiple components using props can become complex. This problem is known as **prop drilling**.
@@ -32,10 +23,6 @@ The **React Context API** provides a way to share global data such as themes, us
 
 ---
 
-## 🏗️ Project Structure
-
-
----
 
 ## ⚙️ Procedure
 
@@ -47,17 +34,17 @@ The **React Context API** provides a way to share global data such as themes, us
 npm create vite@latest
 
 
-2. Installed dependencies:
+3. Installed dependencies:
 npm install
 
 
-3. Created a Context using `createContext()`.
+4. Created a Context using `createContext()`.
 
-4. Wrapped the application with `GlobalProvider`.
+5. Wrapped the application with `GlobalProvider`.
 
-5. Used `useContext()` inside child components to access global state.
+6. Used `useContext()` inside child components to access global state.
 
-6. Implemented:
+7. Implemented:
 - User state
 - Theme toggle functionality
 
@@ -82,22 +69,8 @@ npm install
 
 ---
 
-## 🚀 Conclusion
+<img width="1913" height="621" alt="Screenshot 2026-02-15 223804" src="https://github.com/user-attachments/assets/649aac49-4513-4c53-b918-4823431bb363" />
+<img width="1919" height="646" alt="Screenshot 2026-02-15 223815" src="https://github.com/user-attachments/assets/ed0bc3d4-fe2a-457c-a7a0-8725e1b989ea" />
+<img width="1918" height="580" alt="Screenshot 2026-02-15 223831" src="https://github.com/user-attachments/assets/b21a1b7a-393a-430a-87ad-68e270e88dc8" />
 
-This experiment successfully demonstrates how React Context API can be used to manage global state in a Single Page Application. It eliminates prop drilling and improves maintainability and scalability of React applications.
-
----
-
-## 📸 Screenshots
-
-### 1️⃣ Light Theme View
-![Light Theme](./screenshots/ss1.png)
-
-### 2️⃣ Dark Theme View
-![Dark Theme](./screenshots/ss2.png)
-
-### 3️⃣ User Name Updated View
-![User Updated](./screenshots/ss3.png)
-
----
 
