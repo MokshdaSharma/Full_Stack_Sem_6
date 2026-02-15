@@ -1,4 +1,4 @@
-# Experiment 2  
+# Experiment 4.2 
 ## State Management Using Redux (Counter Application)
 
 ---
@@ -8,18 +8,6 @@
 To implement centralized state management using Redux in a React application.
 
 ---
-
-## 🛠️ Software Requirements
-
-- Node.js
-- React (Vite)
-- Redux Toolkit
-- React-Redux
-- VS Code
-- Web Browser
-
----
-
 ## 📚 Theory
 
 Redux is a predictable state container for JavaScript applications. It stores the application state in a single global store and updates it using actions and reducers.
@@ -35,11 +23,6 @@ Redux Toolkit simplifies Redux implementation by reducing boilerplate code and p
 - **Provider** → Makes store available to components
 - **useSelector()** → Access state
 - **useDispatch()** → Dispatch actions
-
----
-
-## 🏗️ Project Structure
-
 
 ---
 
@@ -93,7 +76,7 @@ The counter updates globally using Redux state.
 
 ---
 
-## 🚀 Conclusion
+<img width="1915" height="864" alt="Screenshot 2026-02-15 224653" src="https://github.com/user-attachments/assets/34be3dd5-dd3a-41d1-af60-400883d09d56" />
 
 This experiment successfully demonstrates centralized state management using Redux Toolkit in a React application. It ensures predictable state updates and improves scalability and maintainability.
 
