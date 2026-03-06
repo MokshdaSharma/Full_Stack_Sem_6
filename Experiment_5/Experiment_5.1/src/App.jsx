@@ -3,7 +3,17 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 // import Dashboard from './components/dashboard'
+
 import {lazy, Suspense} from 'react'
+
+const lazyWithDelay = (factory, delayMs = 5000) =>
+  lazy(() =>
+    Promise.all([
+      factory(),
+      new Promise(resolve => setTimeout(resolve, delayMs))
+    ]).then(([module]) => module)
+  )
+
 const Dashboard = lazy(() => import('./components/dashboard'))
 
 function App() {
