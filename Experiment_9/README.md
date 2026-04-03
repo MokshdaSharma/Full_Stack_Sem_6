@@ -6,7 +6,7 @@ It showcases how users can securely log in and access protected resources by pas
 
 ---
 
-## 🚀 Features
+## Features
 
 - User Authentication using Email & Password
 - JWT Token Generation on Login
