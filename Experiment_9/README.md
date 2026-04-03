@@ -92,15 +92,14 @@ Authorization: Bearer <your_jwt_token>
 ---
 ## Screenshots
 
-<img width="1440" height="900" alt="Screenshot 2026-04-02 at 9 28 38 AM" src="https://github.com/user-attachments/assets/9a591bce-844e-4d20-a8b1-5dc686fb56dc" />
+![WhatsApp Image 2026-04-02 at 9 58 45 PM](https://github.com/user-attachments/assets/50820169-ae3f-4c37-9193-0a85bfe34218)
+![WhatsApp Image 2026-04-02 at 9 58 25 PM](https://github.com/user-attachments/assets/cd0beec3-51ee-427f-a457-19e85aeb1a11)
+![WhatsApp Image 2026-04-02 at 9 58 00 PM](https://github.com/user-attachments/assets/13907181-4eb2-4fb9-89db-a24c3baacea3)
+![WhatsApp Image 2026-04-02 at 9 57 22 PM](https://github.com/user-attachments/assets/c12c7b95-520b-4d2c-a3e0-952fe973dcfb)
+![WhatsApp Image 2026-04-02 at 9 57 13 PM](https://github.com/user-attachments/assets/5e3ea7ac-4eba-4ea4-9e37-d664d3d8f72c)
+![WhatsApp Image 2026-04-02 at 9 56 53 PM](https://github.com/user-attachments/assets/5cd34bbd-d701-42c9-bce4-3d0d194658cb)
+![WhatsApp Image 2026-04-02 at 9 56 42 PM](https://github.com/user-attachments/assets/3355d8c0-a8fa-437f-8874-66598ebff5b7)
 
-<img width="1440" height="900" alt="Screenshot 2026-04-02 at 9 29 52 AM" src="https://github.com/user-attachments/assets/7e31db44-9b87-45cd-b59b-329b2cab8a55" />
-
-<img width="1440" height="900" alt="Screenshot 2026-04-02 at 9 30 25 AM" src="https://github.com/user-attachments/assets/ed62eb06-0239-4c4c-8cd7-565842badeb3" />
-
-
-
-<img width="1440" height="900" alt="Screenshot 2026-04-02 at 9 31 04 AM" src="https://github.com/user-attachments/assets/f5fa98bf-3707-4ade-be16-c3ba77efc7ba" />
 
 
 
