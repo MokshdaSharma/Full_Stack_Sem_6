@@ -92,17 +92,29 @@ Authorization: Bearer <your_jwt_token>
 ---
 ## Screenshots
 
+### Spring Boot 
 ![WhatsApp Image 2026-04-02 at 9 58 45 PM](https://github.com/user-attachments/assets/50820169-ae3f-4c37-9193-0a85bfe34218)
-![WhatsApp Image 2026-04-02 at 9 58 25 PM](https://github.com/user-attachments/assets/cd0beec3-51ee-427f-a457-19e85aeb1a11)
-![WhatsApp Image 2026-04-02 at 9 58 00 PM](https://github.com/user-attachments/assets/13907181-4eb2-4fb9-89db-a24c3baacea3)
-![WhatsApp Image 2026-04-02 at 9 57 22 PM](https://github.com/user-attachments/assets/c12c7b95-520b-4d2c-a3e0-952fe973dcfb)
-![WhatsApp Image 2026-04-02 at 9 57 13 PM](https://github.com/user-attachments/assets/5e3ea7ac-4eba-4ea4-9e37-d664d3d8f72c)
-![WhatsApp Image 2026-04-02 at 9 56 53 PM](https://github.com/user-attachments/assets/5cd34bbd-d701-42c9-bce4-3d0d194658cb)
-![WhatsApp Image 2026-04-02 at 9 56 42 PM](https://github.com/user-attachments/assets/3355d8c0-a8fa-437f-8874-66598ebff5b7)
 
+---
 
+### Register
+![WhatsApp Image 2026-04-02 at 9 56 53 PM](https://github.com/user-attachments/assets/7aaf0f69-92dd-4622-972d-71daa2ee42dd)
+![WhatsApp Image 2026-04-02 at 9 56 42 PM](https://github.com/user-attachments/assets/147cba6c-581b-476b-876d-f444c228c701)
 
+---
 
+### Login
+
+![WhatsApp Image 2026-04-02 at 9 57 22 PM](https://github.com/user-attachments/assets/12ba2787-f03a-4006-8490-96cb85c775fb)
+![WhatsApp Image 2026-04-02 at 9 57 13 PM](https://github.com/user-attachments/assets/ded8c274-4713-4f9a-a31b-324997bdeec5)
+
+---
+
+### Authentication 
+
+![WhatsApp Image 2026-04-02 at 9 58 00 PM](https://github.com/user-attachments/assets/0fe3a9a0-d3da-4f7f-8207-62cd18ee8b62)
+
+![WhatsApp Image 2026-04-02 at 9 58 25 PM](https://github.com/user-attachments/assets/2efa1121-6ff4-416f-bbb3-406bfe28a705)
 
 
 ---
