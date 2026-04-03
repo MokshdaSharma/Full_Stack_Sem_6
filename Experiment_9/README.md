@@ -1,4 +1,4 @@
-# 🔐 Spring Security + JWT Authentication Demo
+# Spring Security with JWT Authentication 
 
 This project demonstrates how to implement authentication and authorization using Spring Security and JSON Web Tokens (JWT) in a RESTful API.
 
@@ -18,32 +18,7 @@ It showcases how users can securely log in and access protected resources by pas
 
 ---
 
-## 🛠️ Tech Stack
-
-- Java 17+
-- Spring Boot
-- Spring Security
-- JWT (JSON Web Token)
-- Hibernate / JPA
-- MySQL / PostgreSQL
-- Maven
-
----
-
-## 📁 Project Structure
-
-com.agam.rest_example
-│
-├── Controller
-├── Service
-├── Repository
-├── Entity
-├── Security
-└── Config
-
----
-
-## 🔑 Authentication Flow
+##  Authentication Flow
 
 1. User sends login request with credentials
 2. Server validates user using Spring Security
@@ -54,9 +29,9 @@ com.agam.rest_example
 
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
-### 🔓 Public Endpoints
+### Public Endpoints
 
 POST /register
 
@@ -65,7 +40,7 @@ POST /login
 
 ---
 
-### 🔒 Protected Endpoints
+###  Protected Endpoints
 
 GET /api/students/{id}
 
@@ -74,7 +49,7 @@ Authorization: Bearer <your_jwt_token>
 
 ---
 
-## 🧪 Testing with Postman
+## Testing with Postman
 
 1. Login using /api/auth/login
 2. Copy token
@@ -82,7 +57,7 @@ Authorization: Bearer <your_jwt_token>
 
 ---
 
-## 🔐 Security Configuration
+## Security Configuration
 
 - CSRF disabled
 - Stateless session
