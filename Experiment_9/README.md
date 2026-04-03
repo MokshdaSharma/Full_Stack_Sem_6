@@ -116,17 +116,3 @@ Authorization: Bearer <your_jwt_token>
 
 ![WhatsApp Image 2026-04-02 at 9 58 25 PM](https://github.com/user-attachments/assets/2efa1121-6ff4-416f-bbb3-406bfe28a705)
 
-
----
-
-## ▶️ How to Run
-
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-mvn spring-boot:run
-
----
-
-## 👨‍💻 Author
-
-Agampal Singh
