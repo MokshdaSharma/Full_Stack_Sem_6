@@ -1,20 +1,22 @@
-# 💬 Experiment-10: WebSocket Chat Application
+#  Experiment-10: WebSocket Chat Application
 
 ---
 
-## 📌 Overview
+##  Overview
 A full-stack real-time chat application using WebSocket for continuous communication between client and server.  
 Built with **Spring Boot (backend)** and **React (frontend)**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Enable real-time messaging without HTTP polling  
 - Support multiple users with instant message broadcasting  
 - Build a responsive UI using React  
 - Integrate frontend and backend using STOMP protocol  
 
 ---
+<img width="1600" height="376" alt="ss" src="https://github.com/user-attachments/assets/5ff7cdc2-4630-4ab7-bbe3-b6cc9686bfde" />
+
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +28,7 @@ Built with **Spring Boot (backend)** and **React (frontend)**.
 - SockJS  
 - Maven  
 
-### 🔹 Frontend
+###  Frontend
 - React  
 - Vite  
 - STOMP.js  
@@ -42,10 +44,6 @@ Built with **Spring Boot (backend)** and **React (frontend)**.
 - 🔌 WebSocket endpoint (`/ws`)  
 - 🔁 Message routing using `/app` and `/topic`  
 - 🔒 Handles connection, disconnection, and errors  
-
----
-
-## 📁 Project Structure
 
 ---
 
