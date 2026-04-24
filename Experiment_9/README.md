@@ -1,4 +1,4 @@
-# 🔐 Spring Security + JWT Authentication Demo
+# Spring Security with JWT Authentication 
 
 This project demonstrates how to implement authentication and authorization using Spring Security and JSON Web Tokens (JWT) in a RESTful API.
 
@@ -6,7 +6,7 @@ It showcases how users can securely log in and access protected resources by pas
 
 ---
 
-## 🚀 Features
+## Features
 
 - User Authentication using Email & Password
 - JWT Token Generation on Login
@@ -18,32 +18,7 @@ It showcases how users can securely log in and access protected resources by pas
 
 ---
 
-## 🛠️ Tech Stack
-
-- Java 17+
-- Spring Boot
-- Spring Security
-- JWT (JSON Web Token)
-- Hibernate / JPA
-- MySQL / PostgreSQL
-- Maven
-
----
-
-## 📁 Project Structure
-
-com.agam.rest_example
-│
-├── Controller
-├── Service
-├── Repository
-├── Entity
-├── Security
-└── Config
-
----
-
-## 🔑 Authentication Flow
+##  Authentication Flow
 
 1. User sends login request with credentials
 2. Server validates user using Spring Security
@@ -54,9 +29,9 @@ com.agam.rest_example
 
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
-### 🔓 Public Endpoints
+### Public Endpoints
 
 POST /register
 
@@ -65,7 +40,7 @@ POST /login
 
 ---
 
-### 🔒 Protected Endpoints
+###  Protected Endpoints
 
 GET /api/students/{id}
 
@@ -74,7 +49,7 @@ Authorization: Bearer <your_jwt_token>
 
 ---
 
-## 🧪 Testing with Postman
+## Testing with Postman
 
 1. Login using /api/auth/login
 2. Copy token
@@ -82,7 +57,7 @@ Authorization: Bearer <your_jwt_token>
 
 ---
 
-## 🔐 Security Configuration
+## Security Configuration
 
 - CSRF disabled
 - Stateless session
@@ -92,30 +67,27 @@ Authorization: Bearer <your_jwt_token>
 ---
 ## Screenshots
 
-<img width="1440" height="900" alt="Screenshot 2026-04-02 at 9 28 38 AM" src="https://github.com/user-attachments/assets/9a591bce-844e-4d20-a8b1-5dc686fb56dc" />
-
-<img width="1440" height="900" alt="Screenshot 2026-04-02 at 9 29 52 AM" src="https://github.com/user-attachments/assets/7e31db44-9b87-45cd-b59b-329b2cab8a55" />
-
-<img width="1440" height="900" alt="Screenshot 2026-04-02 at 9 30 25 AM" src="https://github.com/user-attachments/assets/ed62eb06-0239-4c4c-8cd7-565842badeb3" />
-
-
-
-<img width="1440" height="900" alt="Screenshot 2026-04-02 at 9 31 04 AM" src="https://github.com/user-attachments/assets/f5fa98bf-3707-4ade-be16-c3ba77efc7ba" />
-
-
-
-
+### Spring Boot 
+![WhatsApp Image 2026-04-02 at 9 58 45 PM](https://github.com/user-attachments/assets/50820169-ae3f-4c37-9193-0a85bfe34218)
 
 ---
 
-## ▶️ How to Run
-
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-mvn spring-boot:run
+### Register
+![WhatsApp Image 2026-04-02 at 9 56 53 PM](https://github.com/user-attachments/assets/7aaf0f69-92dd-4622-972d-71daa2ee42dd)
+![WhatsApp Image 2026-04-02 at 9 56 42 PM](https://github.com/user-attachments/assets/147cba6c-581b-476b-876d-f444c228c701)
 
 ---
 
-## 👨‍💻 Author
+### Login
 
-Agampal Singh
+![WhatsApp Image 2026-04-02 at 9 57 22 PM](https://github.com/user-attachments/assets/12ba2787-f03a-4006-8490-96cb85c775fb)
+![WhatsApp Image 2026-04-02 at 9 57 13 PM](https://github.com/user-attachments/assets/ded8c274-4713-4f9a-a31b-324997bdeec5)
+
+---
+
+### Authentication 
+
+![WhatsApp Image 2026-04-02 at 9 58 00 PM](https://github.com/user-attachments/assets/0fe3a9a0-d3da-4f7f-8207-62cd18ee8b62)
+
+![WhatsApp Image 2026-04-02 at 9 58 25 PM](https://github.com/user-attachments/assets/2efa1121-6ff4-416f-bbb3-406bfe28a705)
+

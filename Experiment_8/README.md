@@ -1,18 +1,5 @@
-## **SERVER RUNNING STATUS**
-<img src="https://github.com/user-attachments/assets/9554388f-79bc-4e30-9518-695e5921112e" width="700"/>
+![WhatsApp Image 2026-04-03 at 11 46 06 AM (1)](https://github.com/user-attachments/assets/b29ad624-82ca-4102-8634-7caa31f24805)
+![WhatsApp Image 2026-04-03 at 11 46 06 AM (2)](https://github.com/user-attachments/assets/d16f6aa1-de38-428b-8043-d75358c50853)
+![WhatsApp Image 2026-04-03 at 11 46 05 AM](https://github.com/user-attachments/assets/16e2293a-ec02-4c7a-bd5a-53b8d9ae440d)
+![WhatsApp Image 2026-04-03 at 11 46 06 AM](https://github.com/user-attachments/assets/5134d2c2-a676-460e-97b0-102a0543459a)
 
----
-## **GET COMMAND**
-<img src="https://github.com/user-attachments/assets/fb0c4166-0f96-40ca-963b-c92d8adc073c" width="700"/>
-
----
-## **POST COMMAND**
-<img src="https://github.com/user-attachments/assets/70b2749a-392f-4601-b717-6621f292e417" width="700"/>
-
----
-## **PUT COMMAND**
-<img src="https://github.com/user-attachments/assets/f42da5a1-c5e9-4b47-a378-ac71a571dec0" width="700"/>
-
----
-## **DELETE COMMAND**
-<img src="https://github.com/user-attachments/assets/d493eb1e-cccf-48c1-8a57-8e00bbb091eb" width="700"/>
